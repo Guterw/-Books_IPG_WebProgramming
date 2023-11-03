@@ -4,7 +4,4 @@
     {
         public int CategoryId { get; set; }
     }
-
-    [Required]
-    []
 }
